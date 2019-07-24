@@ -1,0 +1,2 @@
+# microservicecloud-config
+这个仓库作用是用来做spring cloud的分布式文件管理中心
